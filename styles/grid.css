@@ -1,0 +1,31 @@
+@media screen and (min-with:576px) {
+    .contianer{
+        width: 54rem;
+    }
+       
+    
+}
+@media screen and (min-with:768px) {
+    .contianer{
+        width: 72rem;
+    }
+    
+}
+@media screen and (min-with:992px) {
+    .contianer{
+        width: 96rem;
+    }
+    
+}
+@media screen and (min-with:1200px) {
+    .contianer{
+        width: 114rem;
+    }
+    
+}
+@media screen and (min-with:1400px) {
+    .contianer{
+        width: 137rem;
+    }
+    
+}
