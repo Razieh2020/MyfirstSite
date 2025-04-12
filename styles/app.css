@@ -656,6 +656,7 @@ Services
     font-family: var(--secondary-font);
     font-size: 1.8rem;
     margin-bottom: 1rem;
+    text-align: center;
 
 }
 .container{
@@ -667,7 +668,7 @@ Services
 
 }
 .footer__left{
-    display: flex;
+    max-width: 60rem;
 
 }
 
@@ -682,6 +683,7 @@ Services
 
 }
 .footer-app{
+    text-align: center;
 
 }
 .footer__title{
@@ -691,8 +693,9 @@ Services
 
 }
 .footer-app__link{
-
-}
+    padding-right: 2rem;
+    text-align: center;
+    }
 .footer-app__img{
 
 }
@@ -723,6 +726,7 @@ Footer Right
 
 }
 .footer-pages__item{
+    text-align: center;
 
 }
 
