@@ -562,10 +562,15 @@ Services
     padding: 3rem 2rem;
     display: flex;
     flex-direction:column-reverse;
+    margin: 6rem 0;
 
 }
 .newsletter__content{
     font-family: var(--primary-font-md);
+    text-align: right;
+    
+
+
 
 }
 .newsletter__title{
@@ -579,6 +584,7 @@ Services
 }
 .newsletter__caption{
     font-family: var(--primary-font-md);
+    margin: 4rem 0 4rem 0;
 
 }
 .newsletter__email-box{
