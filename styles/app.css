@@ -644,19 +644,31 @@ Services
 */ 
 .footer{
     background-color: var(--secendry-color);
+    border-top-left-radius:10rem;
+    border-top-right-radius: 10rem;
+    color: var(--dark);
+    padding: 6rem  0 2rem 0;
 
 }
 .footer__title{
+    font-family: var(--secondary-font);
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
 
 }
 .container{
 
 }
 .footer__wrapper{
+    display: flex;
 
 }
-.footer__left{
+.footer__Left{
+    display: flex;
 
+}
+.footer__Right{
+    
 }
 .footer-content{
 
